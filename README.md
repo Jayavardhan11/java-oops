@@ -1,1 +1,1 @@
-# java-oops
+Description of the concepts
